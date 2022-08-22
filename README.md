@@ -1,2 +1,3 @@
-# weather_app
 # practice-repo
+
+This is a practice repo
